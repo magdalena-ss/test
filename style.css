@@ -11,4 +11,5 @@ body{
     height: 100vh;
     width: 50px;
     font-family: 'Ubuntu' sans-serif;
+    background-attachment: fixed;
 }
