@@ -1,6 +1,6 @@
 # Cześć
 
-$$ Witajcie, to jest H2 <H2> test
+## Witajcie, to jest H2 <H2> test
 
 To jest tekst **pogrubiony**
 
